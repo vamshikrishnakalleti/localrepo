@@ -1,0 +1,17 @@
+commit 083158dee5b6d18e2d5e6461d92094ad73122c71
+Author: git@vamshi <vamshi.66krish@gmail.com>
+Date:   Mon Jan 10 15:13:55 2022 +0530
+
+    Modified Dockerfile
+
+commit a4d98dceb5f849246b7cd4cc83b6ef7fd2787312
+Author: vamshikrishnakalleti <97330179+vamshikrishnakalleti@users.noreply.github.com>
+Date:   Sat Jan 8 21:42:09 2022 +0530
+
+    Update Playbook.yaml
+
+commit ea1851a5b04e1b64586c81858ddd8f67706e5845
+Author: git@vamshi <vamshi.66krish@gmail.com>
+Date:   Sat Jan 8 18:18:29 2022 +0530
+
+    Created Docker and Playbook files
